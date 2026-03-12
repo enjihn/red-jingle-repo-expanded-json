@@ -6,6 +6,6 @@ Navigate down to "Jingle Repositories"
 
 Select "Add New Repository"
 
-Username : Red6785
+Username : enjihn
 
-Repository: red-jingle-repo
+Repository: red-jingle-repo-expanded-json
